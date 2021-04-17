@@ -1,0 +1,39 @@
+MachineLearning:
+    Model:
+        LDA
+        LGBM
+        ADAboost
+        Linear
+        Rasso
+        XGBoost
+        RandomForest
+        Polinomial
+
+DeepLearning:
+    Model:
+        LstmEncoder:
+            TIME
+            STFT
+        CNN:
+
+Feature:
+    RMS
+    peak
+    bottom
+
+ProProcessing:
+    Smoothing
+    Scaler
+    Sampling
+    Wavelet
+    STFT
+    FFT
+    cut before 300ms
+    wave kinds:
+        alpha
+        beta
+        gamma
+        theta
+        delta
+
+EAD:
