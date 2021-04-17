@@ -1,1 +1,4 @@
 *.mat
+*.ipynb_checkpoints/*
+nohup.out
+woobean/.ipynb_checkpoints/
